@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UBQ Station</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="welcome">All Rights Reserved. © UBQ Systems</string>
+
+    <string name="WEBVIEW_URL_KEY">webview_url</string>
+
+</resources>

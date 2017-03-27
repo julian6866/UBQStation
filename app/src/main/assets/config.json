@@ -1,0 +1,50 @@
+{
+
+  "version": "1",
+
+  "news": [
+    {
+      "id": "100",
+      "title": "美通社－PR Newwire",
+      "description": "世界产业届新闻",
+      "url": "http://api.prnewswire.com/releases/version01/getFullTextRSS?query=language:zh-Hans&apikey=9efee1abe31f666e",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserRSS"
+    },
+    {
+      "id": "110",
+      "title": "新华网－国际频道",
+      "description": "国际要闻",
+      "url": "http://www.xinhuanet.com/world/news_world.xml",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserRSS"
+    },
+    {
+      "id": "500",
+      "title": "CNN－热点新闻",
+      "description": "Top Stories",
+      "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserRSS"
+    },
+    {
+      "id": "600",
+      "title": "CNN－世界新闻",
+      "description": "World",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserRSS"
+    },
+    {
+      "id": "700",
+      "title": "CNN－美国新闻",
+      "description": "US",
+      "url": "http://rss.cnn.com/rss/cnn_us.rss",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserRSS"
+    },
+    {
+      "id": "400",
+      "title": "中文新闻定制",
+      "description": "More coming soon！",
+      "url": "news_sample.json",
+      "parser": "com.pureiconsulting.nn.core.ArticleParserJSON"
+    }
+  ]
+
+}
